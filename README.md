@@ -4,3 +4,5 @@ Power BI Galaxy Schema project (Sales, Targets, Inventory, Returns)
 
 Work in progress.
 Daily commits with Power BI galaxy schema project.
+
+![Model diagram](data/scr1.png)
